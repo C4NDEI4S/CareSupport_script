@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', function () {
     // URL do arquivo CSV no GitHub (usando caminho relativo)
-    const csvUrl = 'seu-arquivo.csv';
+    const csvUrl = 'C:\Users\trsnc\Documents\miband-heartrate-2.1.0\miband-heartrate-2.1.0\heartrate.csv';
 
     // Função para buscar e exibir o arquivo CSV
     async function fetchAndDisplayCSV() {
