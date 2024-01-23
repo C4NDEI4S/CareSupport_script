@@ -38,7 +38,7 @@ def upload_to_github(token, repo_name, file_path, commit_message):
 
 if __name__ == "__main__":
     # Substitua as informações abaixo com seu token de acesso pessoal e detalhes do arquivo
-    github_token = "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"
+    github_token = "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"
     repository_name = "CareSupport"
     local_file_path = "C:\\Users\\trsnc\\Documents\\miband-heartrate-2.1.0\\miband-heartrate-2.1.0\\heartrate.csv"
     commit_msg = "A atualizar o arquivo no repositório"
